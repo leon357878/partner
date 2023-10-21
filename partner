@@ -1,0 +1,6 @@
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/LypherX/FTagSource/main/MoriScripts')))()
+-- IMPORTANT LOCAL
+local PartnerRank = "🔥Partner"
+local DeveloperRank = "⚒️Developer"
+local ModeratorRank = "🔧Moderator"
+local LeaderboardRank = "🌍#82"
